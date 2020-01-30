@@ -15,7 +15,7 @@ namespace ConsoleApp2
                     fact = fact * i;
                 }
 
-                Console.WriteLine("Factodvdrial of " + n + " is: " + fact);
+                Console.WriteLine("Factodvddrial of " + n + " is: " + fact);
 
                 function(fact);
 
