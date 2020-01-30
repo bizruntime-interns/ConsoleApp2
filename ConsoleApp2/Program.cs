@@ -15,7 +15,9 @@ namespace ConsoleApp2
                     fact = fact * i;
                 }
                 Console.WriteLine("Factorial of " + n + " is: " + fact);
+
                 function(fact);
+
 
             }
             static void function(int fact)
